@@ -1,0 +1,9 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color:maroon;
+    font-size:200%;
+    border: 2px solid goldenrod;
+    padding: 10px;
+}
